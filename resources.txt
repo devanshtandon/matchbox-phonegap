@@ -1,0 +1,6 @@
+Tutorials : 
+http://coenraets.org/blog/phonegap-tutorial/
+http://phonegap.com/blog/2014/04/23/phonegap-developer-app/
+
+Facebook Plugin : https://build.phonegap.com/plugins/1246
+(look up later)
